@@ -49,9 +49,9 @@
 - [Styled-components](https://styled-components.com/)
 - [Firebase](https://firebase.google.com/)
 
-## Live
+## Live Demo
 
-  [Live](https://image-uploader-six.vercel.app/)
+  [Demo](https://image-uploader-six.vercel.app/)
 
 ## Features
 
