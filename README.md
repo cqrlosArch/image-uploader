@@ -8,12 +8,12 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
-      Demo
+    <a href="https://github.com/cqrlosArch/image-uploader">
+      Code
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
-      Solution
+    <a href="https://image-uploader-six.vercel.app/">
+      Solution Live
     </a>
     <span> | </span>
     <a href="https://devchallenges.io/challenges/O2iGT9yBd6xZBrOcVirx">
