@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">Image Uploader</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -48,6 +48,10 @@
 - [React](https://reactjs.org/)
 - [Styled-components](https://styled-components.com/)
 - [Firebase](https://firebase.google.com/)
+
+## Live
+
+  [Live](https://image-uploader-six.vercel.app/)
 
 ## Features
 
